@@ -1,0 +1,16 @@
+/*
+Author: Joyal Joy
+Date: 28/01/2025
+File Name: style.css
+*/
+
+/* CSS reset */
+body, header, nav, main, footer, h1, div, img, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+} 
+.container{
+    width: 100%;
+}
+
